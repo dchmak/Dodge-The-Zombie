@@ -1,2 +1,2 @@
 @echo off
-python game.py
+pyg.exe game.py

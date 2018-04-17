@@ -127,4 +127,3 @@ while not close:
         
 
 pg.quit()
-quit()
