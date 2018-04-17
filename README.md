@@ -1,6 +1,8 @@
 # Dodge-The-Zombie
 Simple game created using Python
 
+---
+
 Sources:
 
   pyg.exe: https://bitbucket.org/thesheep/pyg.exe/wiki/Home
@@ -9,5 +11,6 @@ Sources:
   
   Zombie.png: https://www.brik.co/blogs/pixel-art/zombie-hand-pixel-art
 
+---
 
 To play, download the folder and double click Start
